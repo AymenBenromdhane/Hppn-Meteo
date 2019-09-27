@@ -1,0 +1,6 @@
+framework module Pods_Happn_Weather {
+  umbrella header "Pods-Happn Weather-umbrella.h"
+
+  export *
+  module * { export * }
+}
